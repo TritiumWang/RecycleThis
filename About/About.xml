@@ -18,7 +18,8 @@
     </li>
   </modDependencies>
   <loadAfter>
-    <li>brrainz.harmony</li>
+	<li>brrainz.harmony</li>
+	<li>erdelf.HumanoidAlienRaces</li>
   </loadAfter>
   <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of busted_bunnys mod https://steamcommunity.com/sharedfiles/filedetails/?id=2567877605
